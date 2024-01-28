@@ -3,5 +3,4 @@
 ----
 #Gameplay
 
-[![](https://img.youtube.com/vi/KAlzdmnUE7M/0.jpg)](https://www.youtube.com/watch?v=KAlzdmnUE7M)
 
